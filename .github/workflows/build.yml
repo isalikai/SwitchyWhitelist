@@ -63,7 +63,7 @@ jobs:
           echo "Final raw files:"
           find raw -maxdepth 5 -type f -print
 
-      - name: Convert
+      - name: Convert compact list
         run: |
           python scripts/convert.py \
             --input-dir raw \
