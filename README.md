@@ -1,0 +1,3 @@
+# SwitchyWhitelist
+
+Rule list generator.

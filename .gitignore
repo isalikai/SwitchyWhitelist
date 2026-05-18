@@ -1,0 +1,4 @@
+tmp/
+raw/
+*.dat
+.DS_Store

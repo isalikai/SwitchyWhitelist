@@ -1,0 +1,69 @@
+name: Build
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 07:00 Asia/Shanghai = 23:00 UTC
+    - cron: "0 23 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    env:
+      GEOSITE_TAG: cn
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: "1.22"
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install tool
+        run: |
+          go install github.com/urlesistiana/v2dat@latest
+          echo "$(go env GOPATH)/bin" >> "$GITHUB_PATH"
+
+      - name: Download source
+        run: |
+          mkdir -p tmp raw output
+          curl -L \
+            -o tmp/geosite.dat \
+            https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat
+
+      - name: Extract
+        run: |
+          v2dat unpack geosite -d raw -f "${GEOSITE_TAG}" tmp/geosite.dat
+          ls -lah raw
+
+      - name: Convert
+        run: |
+          python scripts/convert.py \
+            --input-dir raw \
+            --tag "${GEOSITE_TAG}" \
+            --output output/direct.txt
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add output/direct.txt
+
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Update"
+            git push
+          fi
