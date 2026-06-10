@@ -2,9 +2,9 @@
 ! Title: Direct Rules
 ! Source: Loyalsoldier/v2ray-rules-dat
 ! Tag: cn
-! Generated: 2026-06-09 00:10:38 UTC
-! Original Count: 112977
-! Compact Count: 112835
+! Generated: 2026-06-10 00:20:04 UTC
+! Original Count: 112975
+! Compact Count: 112833
 ! Skipped: 54
 !
 ||0.zone
@@ -51764,7 +51764,6 @@
 ||infomorning.com
 ||infong.net
 ||infoobs.com
-||infoq.com
 ||infoqstatic.com
 ||inforbus.com
 ||inforeenviro.com
@@ -52106,7 +52105,6 @@
 ||iouluo.com
 ||ioxqm.com
 ||ioxunyun.com
-||ip-cdn.com
 ||ip-guard.net
 ||ip-hercules.com
 ||ip-soc.com
