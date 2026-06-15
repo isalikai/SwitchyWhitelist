@@ -2,9 +2,9 @@
 ! Title: Direct Rules
 ! Source: Loyalsoldier/v2ray-rules-dat
 ! Tag: cn
-! Generated: 2026-06-14 00:14:52 UTC
-! Original Count: 112667
-! Compact Count: 112524
+! Generated: 2026-06-15 00:18:40 UTC
+! Original Count: 112665
+! Compact Count: 112522
 ! Skipped: 54
 !
 ||0.zone
@@ -38972,7 +38972,6 @@
 ||gmtv.cc
 ||gmtzy.com
 ||gmugmu.com
-||gmw.com
 ||gmwiki.com
 ||gmxmym.ren
 ||gmya.net
@@ -65547,11 +65546,11 @@
 ||meishi13.com
 ||meishichina.com
 ||meishiffx.online
-||meishij.net
 ||meishijr.com
 ||meishilife.com
 ||meishiqin.com
 ||meishischool.com
+||meishitx.com
 ||meishiwangluo.com
 ||meishizuofa.com
 ||meishow.com
@@ -100544,7 +100543,6 @@
 ||xinshengsemi.com
 ||xinshi525.com
 ||xinshiba.com
-||xinshipu.com
 ||xinshishen.com
 ||xinshouyou.com
 ||xinshouzhanzhang.com
