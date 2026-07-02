@@ -2,9 +2,9 @@
 ! Title: Direct Rules
 ! Source: Loyalsoldier/v2ray-rules-dat
 ! Tag: cn
-! Generated: 2026-07-01 00:14:20 UTC
-! Original Count: 112216
-! Compact Count: 112069
+! Generated: 2026-07-02 00:15:25 UTC
+! Original Count: 112225
+! Compact Count: 112078
 ! Skipped: 51
 !
 ||0.zone
@@ -7797,6 +7797,7 @@
 ||777haoka.com
 ||777lala.com
 ||777moban.com
+||777ppt.com
 ||777sy.com
 ||777yh.am
 ||7788.com
@@ -10314,6 +10315,7 @@
 ||admin5.net
 ||admin6.com
 ||admin88.com
+||admincdn.com
 ||adminer.com
 ||admintony.com
 ||adminxe.com
@@ -15184,6 +15186,7 @@
 ||beidousafety.org
 ||beidouxingxueche.com
 ||beiduolab.com
+||beie.org
 ||beierbio.com
 ||beierjin.net
 ||beieryouxi.com
@@ -40233,6 +40236,7 @@
 ||guojiayikao.com
 ||guojiayixuekaoshi.com
 ||guojiazhiyezige.com
+||guojibk.com
 ||guojiexpress.com
 ||guojijinjia.com
 ||guojimami.com
@@ -78091,6 +78095,7 @@
 ||rrjc.com
 ||rrkf.com
 ||rrky.com
+||rrmj.plus
 ||rrmj.tv
 ||rrppt.com
 ||rrrdai.com
@@ -89997,6 +90002,7 @@
 ||tokenglish.com
 ||tokensky.net
 ||tokimekiclub.org
+||tol.vip
 ||tol24.com
 ||tom.cat
 ||tom.com
@@ -93715,6 +93721,7 @@
 ||vpsrb.com
 ||vpsss.net
 ||vpssw.com
+||vpsvs.com
 ||vpsvsvps.com
 ||vpszh.com
 ||vptek.com
@@ -95405,6 +95412,7 @@
 ||wenmi114.com
 ||wenmingban.com
 ||wenneart.com
+||wenpai.org
 ||wenpie.com
 ||wenqy.com
 ||wenroo.com
@@ -97028,6 +97036,7 @@
 ||wpceo.com
 ||wpcio.com
 ||wpcsh.com
+||wpcy.com
 ||wpdaxue.com
 ||wpdian.com
 ||wpengapp.com
