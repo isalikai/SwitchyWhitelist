@@ -2,10 +2,10 @@
 ! Title: Direct Rules
 ! Source: Loyalsoldier/v2ray-rules-dat
 ! Tag: cn
-! Generated: 2026-07-04 00:11:26 UTC
-! Original Count: 112225
-! Compact Count: 112078
-! Skipped: 51
+! Generated: 2026-07-05 00:06:20 UTC
+! Original Count: 112226
+! Compact Count: 112077
+! Skipped: 58
 !
 ||0.zone
 ||00.net
@@ -32600,7 +32600,6 @@
 ||embryochina.com
 ||embsky.com
 ||emby.men
-||emby.yun
 ||embyvip.org
 ||emcbj.com
 ||emcdir.com
