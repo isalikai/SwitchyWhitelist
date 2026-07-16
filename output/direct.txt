@@ -2,9 +2,9 @@
 ! Title: Direct Rules
 ! Source: Loyalsoldier/v2ray-rules-dat
 ! Tag: cn
-! Generated: 2026-07-14 23:57:28 UTC
-! Original Count: 111960
-! Compact Count: 111809
+! Generated: 2026-07-16 00:03:47 UTC
+! Original Count: 111959
+! Compact Count: 111808
 ! Skipped: 58
 !
 ||0.zone
@@ -88460,7 +88460,6 @@
 ||teshenqi.com
 ||tesight.com
 ||tesiro.com
-||tesla-cdn.thron.cn
 ||tesolsh.com
 ||tesoon.com
 ||test-cignacmb.com
