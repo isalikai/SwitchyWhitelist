@@ -2,9 +2,9 @@
 ! Title: Direct Rules
 ! Source: Loyalsoldier/v2ray-rules-dat
 ! Tag: cn
-! Generated: 2026-07-17 00:03:25 UTC
-! Original Count: 111959
-! Compact Count: 111808
+! Generated: 2026-07-17 23:57:15 UTC
+! Original Count: 111970
+! Compact Count: 111819
 ! Skipped: 58
 !
 ||0.zone
@@ -12563,6 +12563,7 @@
 ||api-m.com
 ||api-vod-qcloud.com
 ||api.anythinktech.com
+||api.blipsandchitz.me
 ||api.so
 ||apiairasia.com
 ||apiandroid.com
@@ -28103,6 +28104,7 @@
 ||dcyz.com
 ||dcyzq.com
 ||dczcsc.com
+||dczcy.com
 ||dczkj.com
 ||dczy168.com
 ||dd-advisor.com
@@ -29090,6 +29092,7 @@
 ||didichuxing.com
 ||dididapiao.com
 ||dididi88.com
+||didifinance.com
 ||didiglobal.com
 ||didimobility.com
 ||didiopenapi.com
@@ -35955,6 +35958,7 @@
 ||fuca-china.com
 ||fucantec.com
 ||fuchaipower.com
+||fuchenkj.com
 ||fuchuangyu.com
 ||fucnm.com
 ||fucol.club
@@ -47228,6 +47232,7 @@
 ||hrs100.com
 ||hrsalon.org
 ||hrsay.com
+||hrsecn.com
 ||hrsee.com
 ||hrsel.com
 ||hrsoft-china.com
@@ -53866,6 +53871,7 @@
 ||jieshui8.com
 ||jieshuitech.com
 ||jieshuwang.com
+||jietianz.com
 ||jietu365.com
 ||jietuhb.com
 ||jietuosh.com
@@ -67472,6 +67478,7 @@
 ||mychunyan.net
 ||myckjr.com
 ||mycleanmymac.com
+||mycloudnas.com
 ||mycloudstudy.com
 ||myclub2.com
 ||mycnc.org
@@ -79702,6 +79709,7 @@
 ||sdseshealth.com
 ||sdsfjy.com
 ||sdshangya.com
+||sdshdc.com
 ||sdshgk.com
 ||sdshihua.com
 ||sdshitu.com
@@ -81394,6 +81402,7 @@
 ||shicaizhanlan.com
 ||shicehao.com
 ||shichangbu.com
+||shicheng6.com
 ||shichengbao.com
 ||shichengyi.com
 ||shichuangsj.com
@@ -91856,6 +91865,7 @@
 ||ulikestatic.com
 ||ulinix.com
 ||ulinix.tv
+||ulongemg.com
 ||ulpay.com
 ||ultracachenode.com
 ||ultraeda.com
@@ -106618,6 +106628,7 @@
 ||yximgs.com
 ||yxin18.com
 ||yxinbao.com
+||yxingfan.com
 ||yxintent.com
 ||yxit.net
 ||yxixy.com
