@@ -2,7 +2,7 @@
 ! Title: Direct Rules
 ! Source: Loyalsoldier/v2ray-rules-dat
 ! Tag: cn
-! Generated: 2026-07-17 23:57:15 UTC
+! Generated: 2026-07-18 23:58:53 UTC
 ! Original Count: 111970
 ! Compact Count: 111819
 ! Skipped: 58
