@@ -2,9 +2,9 @@
 ! Title: Direct Rules
 ! Source: Loyalsoldier/v2ray-rules-dat
 ! Tag: cn
-! Generated: 2026-08-07 01:42:51 UTC
-! Original Count: 111414
-! Compact Count: 111263
+! Generated: 2026-08-07 23:38:30 UTC
+! Original Count: 111415
+! Compact Count: 111264
 ! Skipped: 58
 !
 ||0.zone
@@ -60896,6 +60896,7 @@
 ||lifevc.com
 ||lifevccdn.com
 ||lifeweeker.com
+||lifexue.com
 ||lifeyk.com
 ||lifeyn.net
 ||lifezb.com
