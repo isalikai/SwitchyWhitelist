@@ -2,9 +2,9 @@
 ! Title: Direct Rules
 ! Source: Loyalsoldier/v2ray-rules-dat
 ! Tag: cn
-! Generated: 2026-08-15 23:25:34 UTC
-! Original Count: 111421
-! Compact Count: 111270
+! Generated: 2026-08-16 23:25:45 UTC
+! Original Count: 111422
+! Compact Count: 111271
 ! Skipped: 58
 !
 ||0.zone
@@ -74233,6 +74233,7 @@
 ||qianwa.com
 ||qianwanku.com
 ||qianwen.com
+||qianwenai.com
 ||qianxiangbank.com
 ||qianxibj.net
 ||qianximiye.com
